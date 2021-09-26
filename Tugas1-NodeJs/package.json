@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ApnanJuanda/niomic/issues"
   },
-  "homepage": "https://github.com/ApnanJuanda/niomic#readme"
+  "homepage": "https://github.com/ApnanJuanda/niomic#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
